@@ -1,0 +1,22 @@
+ <div>
+      <div className="flex bg-yellow-500 w-auto mb-10">
+        <div className="flex-none h-10 w-80 bg-red-500" >1</div>
+        <div className="flex-none h-10 w-80 bg-blue-500" >2</div>
+        <div className="flex-none h-10 w-80 bg-green-500" >3</div>
+      </div>
+
+      <div className="grid grid-cols-5 grid-flow-row gap-y-4 gap-x-1 bg-yellow-400 w-auto">
+        <div className="h-20 w-20 bg-red-500">1</div>
+        <div className="h-20 w-20 bg-red-500">2</div>
+        <div className="h-20 w-20 bg-red-500">3</div>
+
+        <div className="h-20 w-20 bg-red-500">4</div>
+        <div className="h-20 w-20 bg-red-500">5</div>
+        <div className="h-20 w-20 bg-red-500">6</div>
+
+        <div className="h-20 w-20 bg-red-500">7</div>
+        <div className="h-20 w-20 bg-red-500">8</div>
+        <div className="h-20 w-20 bg-red-500">9</div>
+      </div>
+      <div className="text-4xl font-extrabold text-center text-amber-800 text-opacity-80">This is a heading</div>
+    </div>
