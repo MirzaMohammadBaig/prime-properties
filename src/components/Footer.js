@@ -55,9 +55,9 @@ function FooterMenu(){
             <div className='space-y-3'>
                 <h3 className='text-green-500 font-semibold uppercase tracking-wide'>Social media</h3>
                 <div className='flex justify-start p-2 space-x-3'>
-                    <Link><BsFacebook /></Link>
-                    <Link><FaTwitter/></Link>
-                    <Link><BsInstagram/></Link>
+                    <Link to="/prime-properties/"><BsFacebook /></Link>
+                    <Link to="/prime-properties/"><FaTwitter/></Link>
+                    <Link to="https://www.instagram.com/mirza.muhammadd/"><BsInstagram/></Link>
                 </div>
             </div>
             
