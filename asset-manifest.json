@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/prime-properties/static/css/main.e160dc14.css",
-    "main.js": "/prime-properties/static/js/main.6bb15f6f.js",
+    "main.js": "/prime-properties/static/js/main.87ef5755.js",
     "index.html": "/prime-properties/index.html",
     "main.e160dc14.css.map": "/prime-properties/static/css/main.e160dc14.css.map",
-    "main.6bb15f6f.js.map": "/prime-properties/static/js/main.6bb15f6f.js.map"
+    "main.87ef5755.js.map": "/prime-properties/static/js/main.87ef5755.js.map"
   },
   "entrypoints": [
     "static/css/main.e160dc14.css",
-    "static/js/main.6bb15f6f.js"
+    "static/js/main.87ef5755.js"
   ]
 }
